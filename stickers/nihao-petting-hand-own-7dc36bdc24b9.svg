@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="210" viewBox="0 0 270 210" fill="none"><defs>
+          <linearGradient id="proof-skin" x1="120" y1="62" x2="161" y2="171" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F7D7BE" />
+            <stop offset=".46" stop-color="#EBC0A1" />
+            <stop offset="1" stop-color="#DFA987" />
+          </linearGradient>
+          <linearGradient id="proof-light" x1="97" y1="94" x2="162" y2="150" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFF2E3" stop-opacity=".55" />
+            <stop offset="1" stop-color="#FFF2E3" stop-opacity="0" />
+          </linearGradient>
+          <linearGradient id="proof-wrist" x1="199" y1="57" x2="235" y2="32" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white" />
+            <stop offset="1" stop-color="white" stop-opacity="0" />
+          </linearGradient>
+          <mask id="proof-fade"><rect width="270" height="210" fill="url(#proof-wrist)" /></mask>
+        </defs><g mask="url(#proof-fade)">
+          <path d="M263 29C234 25 207 37 187 52L163 69C150 77 140 87 134 97L68 106C57 107 52 114 57 120C62 127 72 128 84 125L138 115L41 134C30 136 25 143 29 150C33 157 43 158 56 155L139 138L64 157C53 160 50 167 56 173C61 179 71 180 82 176L149 156L111 176C101 181 99 186 105 191C111 196 120 195 130 189L165 168C183 162 195 153 207 135L231 102C239 91 252 84 266 79Z"
+            fill="url(#proof-skin)" stroke="#B98062" stroke-opacity=".42" stroke-width="1.35" stroke-linejoin="round" />
+          <path d="M135 96C146 81 153 77 165 72C172 85 168 99 157 106C150 110 143 112 133 113L73 122C63 123 59 120 62 115L136 103Z" fill="url(#proof-light)" />
+          <path d="M141 119C151 114 161 109 166 101C172 92 173 82 169 77M143 139C153 134 161 130 167 122M153 158C163 153 170 148 175 140"
+            stroke="#B47A5C" stroke-opacity=".24" stroke-width="1.8" stroke-linecap="round" />
+          <path d="M185 75C192 67 200 62 211 57M196 131C201 124 205 116 208 107" stroke="#FFF4E8" stroke-opacity=".46" stroke-width="3" stroke-linecap="round" />
+          <path d="M44 143L52 141M69 166L77 163M117 184L122 181M69 116L77 115"
+            stroke="#FAE4D4" stroke-opacity=".66" stroke-width="3.6" stroke-linecap="round" />
+        </g></svg>
